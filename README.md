@@ -106,6 +106,6 @@
 | ✈️ Telegram | [@gilach_one](https://t.me/gilach_one) |
 | 💬 MAX | [Написать в MAX](https://max.ru/u/f9LHodD0cOIe38R919uWCjf4RBVgTtPXE4iqm7PnSjCtYJgeBn-bmkTiemw) |
 | 🧩 Сетка | [Профиль в Сетке](https://setka.ru/users/05500dd0-2e1e-417e-91aa-c4b11b438181) |
-| ✉️ Почта | [eldar.feb@mail.ru](mailto:eldar.feb@mail.ru) |
+| ✉️ Почта | [gilach116@yandex.ru](mailto:gilach116@yandex.ru) |
 | 📞 Телефон / WhatsApp | [+7 903 306-04-85](tel:+79033060485) |
 
