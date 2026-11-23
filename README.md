@@ -109,8 +109,8 @@
 
 | Канал | Контакт |
 | --- | --- |
-| 📄 Резюме №1 | [HeadHunter — первое резюме](https://hh.ru/resume/e4c6b4aeff0e72ac410039ed1f46334b394131) |
-| 📄 Резюме №2 | [HeadHunter — второе резюме](https://kazan.hh.ru/resume/13fdafc0ff1106cbe40039ed1f645434565332) |
+| 📊 Аналитика данных и BI | [Резюме на HeadHunter](https://hh.ru/resume/e4c6b4aeff0e72ac410039ed1f46334b394131) |
+| ⚙️ Автоматизация и интеграции | [Резюме на HeadHunter](https://kazan.hh.ru/resume/13fdafc0ff1106cbe40039ed1f645434565332) |
 | ✈️ Telegram | [@gilach_one](https://t.me/gilach_one) |
 | 💬 MAX | [Написать в MAX](https://max.ru/u/f9LHodD0cOIe38R919uWCjf4RBVgTtPXE4iqm7PnSjCtYJgeBn-bmkTiemw) |
 | 🧩 Сетка | [Профиль в Сетке](https://setka.ru/users/05500dd0-2e1e-417e-91aa-c4b11b438181) |
