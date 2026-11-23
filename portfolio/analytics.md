@@ -11,27 +11,37 @@
 
 ## Проекты по аналитике
 
-### 1. [Power BI — анализ продаж сети магазинов](https://github.com/GilachOne/simulative-powerbi)
+### 1. [Сквозная маркетинговая аналитика — интерактивный дашборд](https://github.com/GilachOne/marketing-analytics-portfolio)
+**Коммерческий проект · маркетинговая аналитика · CRM · BI**
+
+Единая отчётность по рекламным расходам, лидам, подтверждённым встречам и поступлениям. Данные из VK Рекламы, автообзвона, Битрикс24 и Google Sheets; дедупликация событий, воронка, ДРР и разделение календарной и когортной атрибуции. **[Открыть демо](https://gilachone.github.io/marketing-analytics-portfolio/)** — синтетические данные, без доступа к рабочим системам.
+
+### 2. [Парсер отзывов и автоматическая сводная в Google Sheets](https://github.com/GilachOne/maps-reviews-parser)
+**Коммерческий кейс · PHP · API · Google Sheets**
+
+Автоматический сбор отзывов Яндекс Карт, 2ГИС и Zoon для 18 филиалов, около 4 300 отзывов в описанном наборе. Инкрементальное ежедневное обновление, защита от дублей, подсчёт количества отзывов и рейтинга по площадкам и периодам.
+
+### 3. [Power BI — анализ продаж сети магазинов](https://github.com/GilachOne/simulative-powerbi)
 **Power BI · Power Query · DAX**
 
 Двухстраничный отчёт по 20 магазинам за 2024–2025 годы: выручка, динамика, средний чек, YoY, YTD и лояльность. В репозитории есть скриншоты, модель, меры DAX и контрольные расчёты. **Учебный кейс.**
 
-### 2. [SQL — анализ корпоративного обучения](https://github.com/GilachOne/simulative-sql)
+### 4. [SQL — анализ корпоративного обучения](https://github.com/GilachOne/simulative-sql)
 **PostgreSQL · SQL · когортный анализ**
 
 Запросы и исследование охвата, прогресса, практики и удержания студентов. Результаты и методология оформлены в отчёте; отдельно проверены окна наблюдения и корректность когорт. **Учебный кейс.**
 
-### 3. [Metabase — дашборд обучения](https://github.com/GilachOne/simulative-metabase)
+### 5. [Metabase — дашборд обучения](https://github.com/GilachOne/simulative-metabase)
 **Metabase · SQL · визуализация данных**
 
 Дашборд с фильтрами компании и периода, показателями охвата и удержания. В репозитории — SQL-запросы и ссылки на отчёт. Для доступа к части учебного Metabase может потребоваться учётная запись платформы. **Учебный кейс.**
 
-### 4. [Аналитика маркетплейса — API → PostgreSQL → Metabase](https://github.com/GilachOne/simulative-diploma)
+### 6. [Аналитика маркетплейса — API → PostgreSQL → Metabase](https://github.com/GilachOne/simulative-diploma)
 **Python · SQL · PostgreSQL · Metabase · ETL**
 
 Полный цикл: загрузка данных из API, проверки качества, SQL-витрины, дашборд и исследования ассортимента и клиентов. В README есть [публичный демодашборд](https://5.23.55.6/public/dashboard/a37ee339-a32d-49d7-a9ca-66bd03ea02a2). **Учебный кейс.**
 
-### 5. [CityBikes — конвейер данных и BI](https://github.com/GilachOne/simulative-citybikes)
+### 7. [CityBikes — конвейер данных и BI](https://github.com/GilachOne/simulative-citybikes)
 **Airflow · Spark · HDFS · ClickHouse · Metabase**
 
 ELT-пайплайн с проверками качества и публикацией витрины. Показывает работу с несколькими хранилищами и оркестрацией. **Учебный инженерный кейс.**
