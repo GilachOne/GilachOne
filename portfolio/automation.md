@@ -11,22 +11,32 @@
 
 ## Практические проекты
 
-### 1. [Портал инструкторов автошколы](https://github.com/GilachOne/instructor-portal)
+### 1. [Парсер отзывов Яндекс Карт, 2ГИС и Zoon](https://github.com/GilachOne/maps-reviews-parser)
+**Коммерческий кейс · PHP · Google Sheets API · cron**
+
+Автоматизировал сбор отзывов для 18 филиалов: около 4 300 отзывов в базе, ежедневная догрузка новых без дублей, сводная таблица с рейтингами и фильтром по периоду. Интеграция с Google Sheets через API.
+
+### 2. [Сквозная маркетинговая аналитика](https://github.com/GilachOne/marketing-analytics-portfolio)
+**Коммерческий проект · интеграции источников · CRM · дашборд**
+
+Связка VK Рекламы, сервисов автообзвона, Битрикс24 и Google Sheets в единую аналитическую модель расходов, лидов, встреч и платежей. Публичная [интерактивная демонстрация](https://gilachone.github.io/marketing-analytics-portfolio/) использует полностью синтетические данные.
+
+### 3. [Портал инструкторов автошколы](https://github.com/GilachOne/instructor-portal)
 **PWA · PHP · JavaScript · SQLite · S3 · Yandex AI Studio**
 
 Рабочий внутренний портал для экзаменационных отчётов, контроля автопарка и проверки фото. Заменил прежний Telegram-бот; по описанию проекта, используется более чем 100 сотрудниками. Интеграции с Google Sheets, Битрикс24 и внешними сервисами.
 
-### 2. [Реферальный портал](https://github.com/GilachOne/referral-portal)
+### 4. [Реферальный портал](https://github.com/GilachOne/referral-portal)
 **PWA · Битрикс24 REST · вебхуки · PostgreSQL**
 
 Личные реферальные ссылки, статусы приглашённых, заявки на вознаграждения, CRM-синхронизация и автоматические задачи бухгалтерии. Есть резервная синхронизация по расписанию, журнал событий и проверки подозрительных заявок.
 
-### 3. [Чат-боты автошколы — Telegram и MAX](https://github.com/GilachOne/drive-autoschool-bots)
+### 5. [Чат-боты автошколы — Telegram и MAX](https://github.com/GilachOne/drive-autoschool-bots)
 **LeadTeh · Битрикс24 · Albato · REST API**
 
 Сценарии лидогенерации: квалификация по городу и категории прав, запрос контакта, создание сделки в CRM, уведомление менеджера и повторное касание. В репозитории — схемы и обезличенные JSON-выгрузки.
 
-### 4. [Drive or Die — квиз по ПДД](https://github.com/GilachOne/drive-or-die-quiz)
+### 6. [Drive or Die — квиз по ПДД](https://github.com/GilachOne/drive-or-die-quiz)
 **LeadTeh · Telegram Bot API · Google Sheets · DataLens**
 
 Геймифицированный тренажёр на 40 квестов с универсальным движком вопросов, нативными опросами Telegram, рейтингом и виртуальной валютой. Сценарии собраны в конструкторе LeadTeh.
